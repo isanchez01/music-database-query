@@ -12,15 +12,17 @@ I would like to remind users that this is my first project, so don't laugh. In a
 
 An addendum I would like to add would be that this is an ongoing project. As I refine my programming skills, more features will be added. I currently have plans to add a graphical interface, expand the spreadsheet, optimize searching speed, and of course, adding more queries. 
 
-As a reminder, don't forget to add the jar files in the folder titled jar_files_you_probably_need to your classpath
+As a reminder, don't forget to add the jar files in the folder titled <em>jar_files_you_probably_need</em> to your classpath
   To do this:
-    - Right-click on your project folder in Eclipse
+  <ul>
+  <li> - Right-click on your project folder in Eclipse</li>
     - Click on Build Path
     - Click on Configure Bulid Path
     - Click on the Libraries tab
     - Find and click on classpath
     - Click on Add External JARs
     - Finally, find the folder you downloaded contain
+  </ul>
    
 Thank you for going through this project
   - Israel :)
