@@ -15,13 +15,13 @@ An addendum I would like to add would be that this is an ongoing project. As I r
 As a reminder, don't forget to add the jar files in the folder titled <em>jar_files_you_probably_need</em> to your classpath
   To do this:
   <ul>
-  <li> - Right-click on your project folder in Eclipse</li>
-    - Click on Build Path
-    - Click on Configure Bulid Path
-    - Click on the Libraries tab
-    - Find and click on classpath
-    - Click on Add External JARs
-    - Finally, find the folder you downloaded contain
+    <li> Right-click on your project folder in Eclipse</li>
+    <li> Click on Build Path </li>
+    <li> Click on Configure Bulid Path </li>
+    <li> Click on the Libraries tab </li>
+    <li> Find and click on classpath </li>
+    <li> Click on Add External JARs </li>
+    <li> Finally, find the folder you downloaded contain </li>
   </ul>
    
 Thank you for going through this project
